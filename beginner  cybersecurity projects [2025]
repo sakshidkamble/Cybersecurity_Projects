@@ -1,0 +1,32 @@
+ Cybersecurity Project Ideas 2025 
+Beginner Level (1–30)
+1. Port Scanning with Nmap 
+2. Network Packet Analysis 
+3. MAC Address Spoofing 
+4. Brute Forcing SSH Login 
+5. Simple Password Cracker 
+6. SQL Injection Basics 
+. Exploring XSS Vulnerabilities 
+8. Wi-Fi Network Scanning 
+9. Social Engineering 
+10. Information Gathering with Recon-ng 
+11. Email Phishing Simulation 
+12. Building a Simple Keylogger 
+13. Setting Up a Honeypot 
+14. Packet Sniffing with Scapy 
+15. Google Dorking 
+16. Exploring OSINT with Maltego 
+17. DNS Enumeration 
+18. Simple ARP Spoofing Attack 
+19. Creating Fake Login Pages 
+20. Understanding Cookies and Sessions 
+21. Creating Custom Wordlists 
+22. SQLMap Usage for SQL Injection 
+23. Basic Firewall Evasion Techniques
+ 24. HTTP Header Analysis 
+25. Exploring File Inclusion Vulnerabilities 
+26. Understanding VPNs and Proxychains 
+27. Burp Suite Basics 
+28. Command Injection 
+29. Password Hash Cracking with Hashcat 
+30. Setup CTF Challenge
